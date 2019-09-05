@@ -10,12 +10,9 @@ This application was an introduction to MVC architecture, specifically routing t
 ### Specs
 | Spec | Input | Output |
 | :-------------     | :------------- | :------------- |
-| **User can visit vews to create new movies** | Visit create movie page | Movie is created and held in memory  |
-| **User can view a new movie** | Movie page | Details page |
-| **User can CRUD the new movie** | Details page | Options to delete, update |
-| **User can visit vews to create new genres** | Visit create genre page | genre is created and held in memory  |
-| **User can view a new genre** | genre page | Details page |
-| **User can CRUD the new genre** | Details page | Options to delete, update |
+| **User can visit views to create new madlibs or letters** | Visit create madlibs page | Madlibs is created and held in memory  |
+| **User can view their creation** | Visit display madlibs page | Madlibs is displayed with their original inputs  |
+
 
 ## Setup/Installation Requirements
 
